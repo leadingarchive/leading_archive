@@ -1,0 +1,67 @@
+Recommended/Example Reading list for INFO 825, Foundations of Data Science
+
+Week 1: Data science as a methodological process. What are data, and the impacts of its collection?
+
+- Introduction to a scientific paradigm’s blended methodology and research process: https://colab.research.google.com/drive/1H0CTIR_mbnntoM9VeJOL4hR51vvR41bv?authuser=1#scrollTo=lqLCfgUlrEdd
+- The Data Science Life Cycle: A Disciplined Approach to Advancing Data Science as a Science: https://dl.acm.org/doi/10.1145/3360646
+- Data and its (dis)contents: A survey of dataset development and use in machine learning research: https://www.sciencedirect.com/science/article/pii/S2666389921001847?via%3Dihub
+
+
+Week 2: How do diverse problems become data science, and how is industry shaping DS?
+
+- Deep Learning: https://www.nature.com/articles/nature14539.pdf
+- Deep Neural Networks for YouTube Recommendations: https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf
+- ImageNet: A Large-Scale Hierarchical Image Database: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5206848
+
+
+Week 3: Data science research both in and out of IS.
+
+- Big Data, Data Science, and Analytics:The Opportunity and Challenge for IS Research: https://pubsonline.informs.org/doi/epdf/10.1287/isre.2014.0546
+- Science and data science: https://www.pnas.org/doi/pdf/10.1073/pnas.1702076114
+
+
+Week 4: How do statistics and DS relate? Also: Student-defined and -led readings
+
+- 50 Years of Data Science: https://www.tandfonline.com/doi/pdf/10.1080/10618600.2017.1384734?src=getftr
+- Data science vs. statistics: two cultures?: https://link.springer.com/article/10.1007/s42081-018-0009-3
+
+
+Week 5: Student-defined and -led readings
+
+## Student selections:
+- Word embeddings quantify 100 years of gender and ethnic stereotypes: https://www.pnas.org/doi/10.1073/pnas.1720347115
+- Knowledge extraction using semantic similarity of concepts from Web of Things knowledge bases: https://www.sciencedirect.com/science/article/abs/pii/S0169023X21000501
+
+
+Week 6: Data science education in IS, and more student-defined and -led readings
+
+- Data science curriculum in the iField: https://asistdl.onlinelibrary.wiley.com/doi/epdf/10.1002/asi.24701
+## Student selection:
+- Productivity Assessment of Neural Code Completion: https://dl.acm.org/doi/pdf/10.1145/3520312.3534864
+
+
+Week 7: Understanding how humans learn, and more student-defined and -led readings
+
+- Infants’ Rule Generalization Is Governed by the Tolerance Principle: http://www.lingref.com/bucld/45/BUCLD45-16.pdf
+## Student selection:
+- Crowdsourced Fact-Checking at Twitter: How Does the Crowd Compare With Experts?: https://arxiv.org/pdf/2208.09214.pdf
+
+
+Week 8: Understanding what machines learn, and more student-defined and -led readings
+
+- Predictive Biases in Natural Language Processing Models:A Conceptual Framework and Overview: https://aclanthology.org/2020.acl-main.468v2.pdf
+## Student selection:
+- AI and the Everything in the Whole Wide World Benchmark: https://openreview.net/pdf?id=j6NxpQbREA1
+
+
+Week 9: More student-defined and -led readings
+
+## Past student selections:
+- Addressing Fairness, Bias, and Appropriate Use of Artificial Intelligence and Machine Learning in Global Health: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8107824/pdf/frai-03-561802.pdf
+- Hate and Toxic Speech Detection in the Context of Covid-19 Pandemic using XAI: Ongoing Applied Research: https://aclanthology.org/2020.nlpcovid19-2.36.pdf
+
+
+Week 10: DS in social sciences, and the search for patterns in human and machine learning
+
+- Machine Learning for Social Science: An Agnostic Approach: https://www.annualreviews.org/doi/pdf/10.1146/annurev-polisci-053119-015921
+- Do Humans and Deep Convolutional Neural Networks Use Visual Information Similarly for the Categorization of Natural Scenes?: https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.13009
