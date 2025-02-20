@@ -1,5 +1,7 @@
 # LEADING 2021-2023 Data Science Lessons Archive
 
+## Description
+
 LEADING was the *LIS Education and Data Science-Integrated Network*, an IMLS sponsored project focused on the development of data science skills among early and mid-career information science professionals (IMLS RE-246450-OLS-20). The project was a collaboration among many institutions and organizations, and was led by Dr. Jane Greenberg at Drexel University. For more information about the project, see the [website hosted by Drexel University's Metadata Research Center](https://mrc.cci.drexel.edu/leading/).
 
 A component of the project was an annual data science *boot camp*, during which project fellows completed three weeks of synchronous and asynchronous instruction in topics related to computation in an LIS research context. This repository is an archive of the lesson materials developed over the three years of the project, 2021-2023. A release of this repository will be published on Zenodo, and this README will be updated to include a citation to the Zenodo record.
@@ -10,3 +12,25 @@ The structure of the archive is described in more detail below. It is noted here
 - Copyrighted or other third party content: To the extent possible, citations and links have been added to provide reference to these materials.
 - File size: Pre-recorded videos for asynchronous lessons have not been included due to file size limitations.
 
+## Contributors
+
+Each lesson module has its own README file which includes information about lesson creators and contributors. Here, all contributors are listed in alphabetical order, with their institutional affiliation at the time the lessons were created.
+
+- Grabus, Sam. Drexel University.
+- Greenberg, Jane. Drexel University.
+- Ke, Weimao. Drexel University.
+- Kelly, Mat. Drexel University.
+- Marciano, Richard. University of Maryland.
+- Poole, Alex. Drexel University.
+- Rezapour, Shadi. Drexel University.
+- Song, Il-Yeol. Drexel University.
+- Wang, Lei. Drexel University.
+- Wheeler, Jonathan University of New Mexico.
+- Williams, Jake. Drexel University.
+- Yan, Erjia. Drexel University.
+
+## Directory and File Structure
+
+The archive was assembled from an exported learning management system archive (Blackboard). All three years' lesson materials were included in a single Blackboard shell. The intent of the archive structure is to present the lessons in the order they were given, each year of the three years that the boot camp was held. Consequently, there is some duplication of content - some lessons changed over time, others were fixed. 
+
+For the most part, lessons are self-contained in that all of the archved content from a given lesson will be included in the lesson directory. The exception is the lesson on unsupervised learning, for which the datasets used in the tutorial are too large for storing multiple copies in a GitHub repository. As an alternative, those materials are provided in a single directory in the root of this archive. The file paths in the README files of each year's unsupervised learning lesson all reference this same directory.
