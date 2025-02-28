@@ -41,15 +41,15 @@ As noted, some content used for the course has not been included in the archvie 
 
 The content of each year's boot camp lessons has been given the following structure:
 
-archive_root/
-|-- year (2021, 2022, or 2023)/
-|   |-- week (1, 2, or 3)/
-|   |   |-- lesson_title_1/
-|   |   |   |-- lesson README
-|   |   |   |-- lesson files
-|   |   |-- lesson_title_2/
-|   |   |   |-- lesson README
-|   |   |   |-- lesson files
+archive_root/  
+|-- year (2021, 2022, or 2023)/  
+|   |-- week (1, 2, or 3)/  
+|   |   |-- lesson_title_1/  
+|   |   |   |-- lesson README  
+|   |   |   |-- lesson files  
+|   |   |-- lesson_title_2/  
+|   |   |   |-- lesson README  
+|   |   |   |-- lesson files  
 
 and etc.
 
