@@ -31,7 +31,7 @@ License: CC-BY-NC 4.0
 
 Citation:
 
-Wang, Lei. 2021. "Unsupervised Learning." Metadata Research Center, College of Computing and Information. Drexel University.
+Williams, Jake. 2021. "Unsupervised Learning." Metadata Research Center, College of Computing and Information. Drexel University.
 
 ## Resources
 
