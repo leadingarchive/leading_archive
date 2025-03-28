@@ -25,7 +25,7 @@ Each lesson module has its own README file which includes information about less
 - Rezapour, Shadi. Drexel University.
 - Song, Il-Yeol. Drexel University.
 - Wang, Lei. Drexel University.
-- Wheeler, Jonathan University of New Mexico.
+- Wheeler, Jonathan. University of New Mexico.
 - Williams, Jake. Drexel University.
 - Yan, Erjia. Drexel University.
 
@@ -33,11 +33,11 @@ Each lesson module has its own README file which includes information about less
 
 The archive was assembled from an exported learning management system archive (Blackboard). All three years' lesson materials were included in a single Blackboard shell. The intent of the archive structure is to present the lessons in the order they were given, each year of the three years that the boot camp was held. Consequently, there is some duplication of content - some lessons changed over time, others were fixed. 
 
-For the most part, lessons are self-contained in that all of the archved content from a given lesson will be included in the lesson directory. The exception is the lesson on unsupervised learning, for which the datasets used in the tutorial are too large for storing multiple copies in a GitHub repository. As an alternative, those materials are provided in a single directory in the root of this archive. The file paths in the README files of each year's unsupervised learning lesson all reference this same directory.
+For the most part, lessons are self-contained in that all of the archived content from a given lesson will be included in the lesson directory. The exception is the lesson on unsupervised learning, for which the datasets used in the tutorial are too large for storing multiple copies in a GitHub repository. As an alternative, those materials are provided in a single directory in the root of this archive. The file paths in the README files of each year's unsupervised learning lesson all reference this same directory.
 
 With the exception of README files for each lesson, only content from the exported Blackboard course shell has been included in the archive. For example, the schedule for each year is different in that for 2021 there is only a schedule for the first week of the boot camp, while there is a single file showing schedule for all three weeks of the 2022 boot camp, and each week of the 2023 boot camp has a separate file detailing the schedule of that week. In the interest of providing an accurate representation of the source content, missing weekly schedules for the 2021 boot camp have not been created. The change in the structure of the lessons over time, in this and other regards, may be of interest.
 
-As noted, some content used for the course has not been included in the archvie due to privacy, intellectual property, or other reasons.
+As noted, some content used for the course has not been included in the archive due to privacy, intellectual property, or other reasons.
 
 The content of each year's boot camp lessons has been given the following structure:
 
